@@ -3,7 +3,7 @@
 #################################################################################
 
 
-# importing required modules
+# importing the required modules
 from bs4 import BeautifulSoup
 import requests 
 import texttable as tt
